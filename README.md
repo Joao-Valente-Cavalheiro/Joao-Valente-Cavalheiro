@@ -1,6 +1,6 @@
 # 👨🏻‍💻 João Valente
 
-** `Estudante de Tecnologia`**
+**`Estudante de Tecnologia`**
 
 Cursando Engenharia da Computação com paixão por tecnologia e vontade de aprender.
 Busco aperfeiçoar minhas habilidades para alavancar  à carreira.
